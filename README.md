@@ -32,7 +32,7 @@
 
 ### Stats
 
-<img align="left" alt="Tushar singune Github Stats" src="https://github-readme-stats.tsingune.vercel.app/api?username=tsingune&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Tushar singune Github Stats" src="https://github-readme-stats.tusharsingune.vercel.app/api?username=tsingune&show_icons=true&hide_border=true&count_private=true" />
 
 [twitter]: https://twitter.com/tusharsingune
 [linkedin]: https://www.linkedin.com/in/tushar-singune-581b86134/
