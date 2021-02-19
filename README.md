@@ -8,9 +8,9 @@
 - I love to learn New Technologies.
 
 ### Socials
-[<img align="left" alt="Tushar Singune | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][https://twitter.com/tusharsingune]
-[<img align="left" alt="Tushar Singune | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][https://www.linkedin.com/in/tushar-singune-581b86134/]
-[<img align="left" alt="Tushar Singune| Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][https://www.instagram.com/tushar_singune/]
+[<img align="left" alt="Tushar Singune | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Tushar Singune | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkdin]
+[<img align="left" alt="Tushar Singune| Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,10 +44,8 @@
 
 ### Stats
 
-<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Tushar singune Github Stats" src="https://github-readme-stats.tsingune.vercel.app/api?username=tsingune&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://rohan-yadav.web.app
-[twitter]: https://twitter.com/rajrohanyadav
-[linkedin]: https://www.linkedin.com/in/rajrohanyadav
-[dev.to]: https://www.dev.to/rajrohanyadav
-[discord]: https://discord.gg/486VmPz
+[twitter]: https://twitter.com/tusharsingune
+[linkedin]: https://www.linkedin.com/in/tushar-singune-581b86134/
+[instagram]: https://www.instagram.com/tushar_singune/
