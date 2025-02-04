@@ -7,7 +7,6 @@
 
 - 💪 Experienced in **developing scalable microservices** with Golang, Fiber, MongoDB, RabbitMQ, Docker, and Kubernetes.
 - 📈 Skilled in **gRPC, REST APIs, and clean-code principles** for optimal system performance.
-- ✨ Passionate about **mentoring junior developers** and optimizing deployment strategies.
 - 🌟 Currently working at **Trio MDM** as a Golang Developer.
 - 🔮 Open to discussions about **distributed systems, authentication mechanisms, and API development**.
 - 🌟 Previously worked at **Quantive (formerly Gtmhub) and Cliff.ai**.
